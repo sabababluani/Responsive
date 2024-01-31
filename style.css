@@ -59,14 +59,11 @@ nav {
     padding-right: 20px;
 }
 
-
-
 .logo {
     display: flex;
     gap: 14px;
     align-items: center;
 }
-
 
 .Navigation__item {
     display: flex;
@@ -74,21 +71,16 @@ nav {
     gap: 3px;
 }
 
-
 .Navigation__item p {
     font-size: 23px;
     font-weight: 500;
     color: #343D33;
 }
 
-
 .Navigation__item span {
     font-size: 15px;
     color: #333333;
 }
-
-
-
 
 .Navigation__list ul {
     display: flex;
@@ -176,7 +168,6 @@ nav {
     padding: 0 16px;
 }
 
-
 .Adventure__button--green {
     width: 187px;
     height: 56px;
@@ -212,9 +203,7 @@ nav {
 .Advanture__image img {
     max-width: 458px;
     width: 100%;
-
 }
-
 
 
 @media screen and (min-width:768px) and (max-width:1023px) {
@@ -247,7 +236,6 @@ nav {
 
     }
 }
-
 
 @media screen and (max-width:768px) {
     .Advanture {
@@ -317,7 +305,6 @@ nav {
     font-size: 45px;
 }
 
-
 .Gallery__image {
     max-width: 1040px;
     width: 90%;
@@ -356,7 +343,6 @@ nav {
         transform: translateX(-50%);
     }
 }
-
 
 @media screen and (max-width:768px) {
     .Gallery__adjust {
@@ -414,8 +400,6 @@ nav {
     width: 24px;
 }
 
-
-
 .Container {
     display: flex;
     justify-content: center;
@@ -433,7 +417,6 @@ nav {
     padding-left: 16px;
     padding-right: 16px;
 }
-
 
 .Wrapper__small {
     display: flex;
